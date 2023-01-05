@@ -1,3 +1,3 @@
-a=87
-b=99
-print(a*b)
+a='lokesh'
+b='kangaraj'
+print(a+b)
