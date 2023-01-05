@@ -1,8 +1,8 @@
 
 a=87
 b=99
-c=4
-print(a*b+c)
+c='love'
+print(a*b)
 u='lokesh'
 g='kangaraj'
-print(u+g)
+print(u+g+c)
