@@ -6,5 +6,5 @@ print(a*b)
 =======
 u='lokesh'
 g='kangaraj'
-print(a+b)
+print(u+g)
 >>>>>>> main
